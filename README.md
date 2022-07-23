@@ -5,8 +5,8 @@ Digital temperature data.[Home]
 
 - The Polling client as Cooling Controller.[Home]
 
-- Cooling controller parameters.
-1- Temperature sampling period: 500ms.
-2- PWM duty cycle range: 0 to 0.73
-3- Set temperature is 30.
-4- Values of the PID controller arguments are Kp = 0.1, Ki = 0.01 and Kd = 0
+- Cooling controller parameters are:
+    - Temperature sampling period: 500ms.
+    - PWM duty cycle range: 0 to 0.73
+    - Set temperature is 30.
+    - Values of the PID controller arguments are Kp = 0.1, Ki = 0.01 and Kd = 0
