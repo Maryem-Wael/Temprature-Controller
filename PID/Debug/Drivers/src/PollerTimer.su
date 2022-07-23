@@ -1,0 +1,7 @@
+core_cm4.h:1547:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1559:22:NVIC_DisableIRQ	16	static
+PollerTimer.c:7:6:StartTimer	4	static
+PollerTimer.c:22:6:StopTimer	4	static
+PollerTimer.c:26:6:EnableInterrupt	8	static
+PollerTimer.c:35:6:DisableInterrupt	8	static
+PollerTimer.c:43:6:CallPollingFunction	8	static

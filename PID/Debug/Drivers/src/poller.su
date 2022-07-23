@@ -1,0 +1,5 @@
+poller.c:14:6:Poll	16	static
+poller.c:31:6:StartPolling	4	static
+poller.c:36:6:StopPolling	4	static
+poller.c:41:6:SetPollingTime	16	static
+poller.c:46:6:floatToStr	24	static

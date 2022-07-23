@@ -1,0 +1,3 @@
+SPI.c:4:6:SPI_EnableClock	4	static
+SPI.c:9:6:SPI_Init	16	static
+SPI.c:24:15:SPI_TransmitRecieveByte	16	static
